@@ -4,9 +4,9 @@ I'm Furkan, a software developer from Turkey. I have a strong interest in mobile
 
 ## 🛠 Skills
 
-- **Programming Languages:** Kotlin, Python, SQL, Java  
-- **Technologies:** Android Development, Machine Learning, Deep Learning, Django, Git, Object-Oriented Programming (OOP)  
-- **Version Control:** Git  
+- 🚀 **Languages:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- 📱 **Technologies:** ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2300A3E0.svg?style=flat&logo=pytorch&logoColor=white)  
+- 🛠 **Tools & Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 - **Certifications:** Machine Learning with Python, Back-end development with Django, Version Controls: Git and GitHub  
 
 ## 🚀 Current Projects
