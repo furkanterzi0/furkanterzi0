@@ -15,7 +15,7 @@ I'm Furkan, a software developer from Turkey. I have a strong interest in mobile
 - **AI-Powered Traffic Light and Environmental Object Detection for Visually Impaired (In Progress):**  
   Developing a mobile application that uses AI to detect traffic lights and surrounding objects to assist visually impaired individuals with navigation.  
 
-- **Advanced Android Development with Kotlin (In Progress):
+- **Advanced Android Development with Kotlin (In Progress):**
 Working with Firebase (Auth & Realtime DB), Retrofit for RESTful APIs, MVVM architecture, and Google Maps integration including location tracking and custom navigation features.  
 
 ## 📫 Contact
